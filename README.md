@@ -1,16 +1,20 @@
-### Hi there 👋
+# Charlie_SIA
+## 👋 Hi there
 
-<!--
-**siachar/siachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 这里是 Charlie in SIA
 
-Here are some ideas to get you started:
+## 🤔 What I'm doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Postgraduate (student)
+ - Teleoperation Robot
+ - AR/VR
+ - Unlimited Progress
+ 
+ ## 🥳 What I have completed
+ 
+  - Phantom omni Teleoperate UR5 Robot
+  
+ ## 📫 How to reach me: 
+ 
+  - chenlei@sia.com
+
