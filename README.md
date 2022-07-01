@@ -1,7 +1,7 @@
 # Charlie_SIA
 ## 👋 Hi there
 
- - 这里是 Charlie in SIA
+ - Here is Charlie in SIA
 
 ## 🤔 What I'm doing
 
