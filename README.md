@@ -12,7 +12,9 @@
  
  ## 🥳 What I have completed
  
-  - Phantom omni Teleoperate UR5 Robot
+  - Phantom omni/Omega.7/Sigma.7 Teleoperate UR5 Robot
+  - Omega.7/Sigma.7 Control Robotiq Gripper
+  - Get Data From Onrobot Hex Ft Sensor
   
  ## 📫 How to reach me: 
  
