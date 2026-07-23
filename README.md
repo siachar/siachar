@@ -1,7 +1,7 @@
 # Charlie
 ## 👋 Hi there
 
- - Here is Charlie in SIA
+ - Here is Charlie in szLab
 
 ## 🤔 What I'm doing
 
